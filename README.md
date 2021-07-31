@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 Usage:
 ```
 Enter the username and the password of github in informations.txt file
-Change in lines 4 and 10 the name of the dinuionica with the name of your user
+Change in lines 4 and 10 the name of the dinuionica with the name of user
 Then type:
 chmod u+x create.sh
 alias create="/path/create.sh"
