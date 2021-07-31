@@ -15,3 +15,10 @@ $ sudo apt install pip
 $ pip install -r requirements.txt
 ```
 Usage:
+```
+Enter the username and the password of github in informations.txt file
+Then type:
+chmod u+x create.sh
+alias create="/path/create.sh"
+create "The name of the project"
+```
